@@ -5,7 +5,7 @@ This is a starter app for the Apache Spark Maven template.
 
 To run the application, execute the following steps:
 
-1. Setup a Spark cluster as described on http://github.com/big-data-europe/docker-spark by just running: 
+1. Setup a Spark cluster as described on https://github.com/ngocvien21/RideInsight-Scalable-Big-Data-Analytics-Platform.git by just running: 
     ```bash
     git https://github.com/ngocvien21/RideInsight-Scalable-Big-Data-Analytics-Platform.git
     cd docker-spark

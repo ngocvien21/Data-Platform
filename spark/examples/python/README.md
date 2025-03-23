@@ -7,7 +7,7 @@ To run the application, execute the following steps:
 
 1. Setup a Spark cluster as described on http://github.com/big-data-europe/docker-spark by just running: 
     ```bash
-    git https://github.com/big-data-europe/docker-spark.git
+    git https://github.com/ngocvien21/RideInsight-Scalable-Big-Data-Analytics-Platform.git
     cd docker-spark
     docker-compose up -d
     ```

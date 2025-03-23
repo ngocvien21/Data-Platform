@@ -30,18 +30,14 @@ The system processes ride-booking data through the following workflow:
 ### Steps to Run the Platform
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/RideInsight.git
+   git clone https://github.com/ngocvien21/RideInsight-Scalable-Big-Data-Analytics-Platform.git
    cd RideInsight
    ```
 2. Start the Docker containers:
    ```sh
    docker-compose up -d
    ```
-3. Run the Spark job to extract and transform data:
-   ```sh
-   spark-submit etl_job.py
-   ```
-4. Connect Power BI to Hive using JDBC for visualization.
+3. Connect Power BI to Hive using JDBC for visualization.
 
 ## Usage
 - Run the Spark ETL job to process ride-booking data.
